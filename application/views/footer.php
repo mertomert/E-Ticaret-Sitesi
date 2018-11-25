@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="col-sm-2">
 						<div class="companyinfo">
-							<h2><span>YAVUZ</span><br>E-ticaret</h2>
+							<h2><span></span><br>E-ticaret</h2>
 							<p>Fabrikadan Halka</p>
 						</div>
 					</div>
